@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+big.txt
+*-error.log
+out
+# docs
+docs
+!docs/**/config.ts
+!website/docs/.vitepress/config.ts
