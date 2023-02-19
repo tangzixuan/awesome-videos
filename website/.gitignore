@@ -1,12 +1,8 @@
 node_modules
-.DS_Store
+cache
 dist
-dist-ssr
-*.local
-big.txt
-*-error.log
-out
+docs/resource
+docs/index.md
 # docs
-docs
-!docs/**/config.ts
-!website/docs/.vitepress/config.ts
+# !docs/**/config.ts
+# !website/docs/.vitepress/config.ts
