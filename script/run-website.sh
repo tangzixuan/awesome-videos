@@ -1,0 +1,2 @@
+cd './website'
+pnpm  dev

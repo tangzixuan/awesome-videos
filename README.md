@@ -1,6 +1,6 @@
 # awesome-videos
 
-* record wonderful TV series and anime!
+* record wonderful anime 、 movies 、 TV series!
 
 ## anime
 
