@@ -1,4 +1,6 @@
-# awesome-animate
+# awesome-videos
+
+* record wonderful TV series and anime!
 
 ## 斗破苍穹系列（from China）
 

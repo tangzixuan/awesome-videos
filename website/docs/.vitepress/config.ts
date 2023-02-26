@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-    title: 'enjoy those Awesome-animate 🥳',
+    title: 'enjoy those Awesome-videos 🥳',
     description: 'enjoy it!',
     themeConfig: {
         socialLinks: [
